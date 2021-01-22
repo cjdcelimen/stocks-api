@@ -1,0 +1,28 @@
+{
+    "stocks": [
+        {
+            "id": 0,
+            "name": "Aboitiz Power Corporation (PSE:AP)",
+            "sector": "Industrial",
+            "subsector": "Electricity, Energy, Power & Water",
+            "prices": [
+                {
+                    "week": "18 Jan '21",
+                    "open": "26.15",
+                    "high": "26.60",
+                    "low": "25.75",
+                    "close": "26.00",
+                    "change": "-0.05 (-0.19%)"
+                },
+                {
+                    "week": "11 Jan '21",
+                    "open": "27.20",
+                    "high": "27.20",
+                    "low": "26.05",
+                    "close": "26.05",
+                    "change": "-0.95 (-3.52%)"
+                }
+            ]
+        }
+    ]
+}
