@@ -31,6 +31,70 @@
                     "change": "+0.45 (+1.69%)"
                 }
             ]
+        },
+        {
+            "id": 1,
+            "name": "DMCI Holdings, Inc. (PSE:DMC)",
+            "sector": "Holding Firms",
+            "subsector": "Holding Firms",
+            "prices": [
+                {
+                    "week": "18 Jan '21",
+                    "open": "5.44",
+                    "high": "5.44",
+                    "low": "5.16",
+                    "close": "5.330",
+                    "change": "-0.11 (-2.02%)"
+                },
+                {
+                    "week": "11 Jan '21",
+                    "open": "5.80",
+                    "high": "5.80",
+                    "low": "5.36",
+                    "close": "5.44",
+                    "change": "-0.22 (-3.89%)"
+                },
+                {
+                    "week": "04 Jan '21",
+                    "open": "5.66",
+                    "high": "5.80",
+                    "low": "5.30",
+                    "close": "5.66",
+                    "change": "+0.00 (0.00%)"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Robinsons Retail Holdings, Inc. (PSE:RRHI)",
+            "sector": "Service",
+            "subsector": "Retail",
+            "prices": [
+                {
+                    "week": "18 Jan '21",
+                    "open": "63.05",
+                    "high": "64.40",
+                    "low": "62.30",
+                    "close": "62.60",
+                    "change": "-0.40 (-0.63%)"
+                },
+                {
+                    "week": "11 Jan '21",
+                    "open": "63.50",
+                    "high": "65.00",
+                    "low": "63.00",
+                    "close": "63.00",
+                    "change": "-0.20 (-0.32%)"
+                },
+                {
+                    "week": "04 Jan '21",
+                    "open": "66.45",
+                    "high": "66.45",
+                    "low": "62.05",
+                    "close": "63.20",
+                    "change": "-1.80 (-2.77%)"
+                }
+            ]
         }
     ]
 }
